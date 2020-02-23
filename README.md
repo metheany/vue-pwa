@@ -1,4 +1,6 @@
-# vue-pwa-2
+# vue-pwa
+
+Installed CLI Plugins: babel, pwa
 
 ## Project setup
 ```
